@@ -3,8 +3,6 @@ function setup() {
 }
 
 function draw() {
-  background(255, 255, 255)
-  noStroke();
   if (mouseIsPressed) {
     fill(0);
   } else {
